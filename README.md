@@ -1,4 +1,4 @@
-# DKA-Scheduler
+# DKA-Schedule
 A genetic algorithm for solving a constrained scheduling problem. In particular, given a when2meet for individuals split up between 4 sections, schedule them into audition slots such that:
  * Each hour has representation from all 4 sections
  * Individuals have a relatively equal number of assigned hours
